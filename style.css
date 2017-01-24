@@ -1,0 +1,26 @@
+#wrapper{
+	background-color: #dbd8c0;
+	width: 100%;
+	
+}
+
+#header{
+	text-align: center;
+	margin:0 auto;
+
+	
+
+}
+
+
+.images{
+	margin:23px;
+	padding:10px;
+	border: 4px solid black;
+}
+h1{
+	display: inline-block;
+}
+.img{
+	margin-top: 40px;
+}
